@@ -49,7 +49,7 @@ Program ini akan menampilkan menu pilihan kepada pengguna, yaitu:
 6.	Keluar
 Untuk setiap pilihan, program akan memanggil fungsi yang sesuai dengan pilihan tersebut. Setelah fungsi selesai dijalankan, program akan kembali menampilkan menu pilihan kepada pengguna. Jika pengguna memilih pilihan ke-6 (Keluar), maka program akan berhenti.
 
-![hai 6](https://user-images.githubusercontent.com/115526901/211405034-d36eb4f2-feec-4b83-ab11-0733d311ae31.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/115770839/211954705-4207004b-577c-455f-ba24-41a4b7a7a492.png)
 
 ## Hasila Runningannya 
 
