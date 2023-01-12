@@ -1,4 +1,4 @@
-# Project UAs Bahasa Pemrograman
+# Project UAS Bahasa Pemrograman
 
 ## Profil editor
 Nama  : Frans Putra Sinaga 
