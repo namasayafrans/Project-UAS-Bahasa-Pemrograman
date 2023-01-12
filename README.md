@@ -53,9 +53,11 @@ Untuk setiap pilihan, program akan memanggil fungsi yang sesuai dengan pilihan t
 
 ## Hasila Runningannya 
 
-![hai 7](https://user-images.githubusercontent.com/115526901/211405189-f5687722-4e9c-4aa8-9f84-084036c2fe93.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/115770839/211955825-aab727e3-e203-45c9-9647-30c53f5ac57a.png)
 
-![hai 8](https://user-images.githubusercontent.com/115526901/211405324-dd9004d1-90e6-4457-b0ab-d269a0f1cd9e.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/115770839/211955852-595d5054-1cc3-4916-94ab-560b16622669.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/115770839/211955886-fcadb810-e1cf-4e5b-9b31-90137440da3d.png)
 
 
 
