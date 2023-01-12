@@ -1,8 +1,8 @@
 # Project UAS Bahasa Pemrograman
 
 ## Profil editor
-Nama  : Frans Putra Sinaga 
-Nim   : 312210046
+Nama  : Frans Putra Sinaga </br>
+Nim   : 312210046 </br>
 Kelas : TI.22.A1
 
 ### Penjelasa berupa PDf, silahkan klik link di bawah ini:
