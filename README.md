@@ -1,10 +1,9 @@
-# tugas-UAS
+# Project UAs Bahasa Pemrograman
 
-```
+## Profil editor
 Nama  : Frans Putra Sinaga 
 Nim   : 312210046
 Kelas : TI.22.A1
-```
 
 Penjelasa berupa pdf, silahkan klik link di bawah ini:
 
